@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699,
+      "image": "/product-images/smartphone.jpg",
+      "description": "A high-end smartphone with excellent features."
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 25,
+      "image": "/product-images/tshirt.jpg",
+      "description": "Comfortable cotton t-shirt available in multiple colors."
+    }
+  ]
+  
